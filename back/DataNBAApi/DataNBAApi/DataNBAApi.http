@@ -1,0 +1,6 @@
+@DataNBAApi_HostAddress = http://localhost:5230
+
+GET {{DataNBAApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
